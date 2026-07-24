@@ -60,16 +60,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/naresh1486/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/naresh1486/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Array
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/naresh1486/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/naresh1486/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
