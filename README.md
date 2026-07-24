@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naresh1486/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/naresh1486/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/naresh1486/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/naresh1486/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naresh1486/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/naresh1486/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -66,18 +68,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naresh1486/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/naresh1486/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naresh1486/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/naresh1486/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/naresh1486/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naresh1486/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/naresh1486/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
